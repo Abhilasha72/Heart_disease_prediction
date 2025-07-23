@@ -1,1 +1,3 @@
 # Heart_disease_prediction
+
+This project aims to predict the presence of heart disease using various machine learning algorithms, supporting early diagnosis and prevention. Using a heart disease dataset, the data was preprocessed and several classification models were trained and evaluated, including Logistic Regression, Naive Bayes, SVM, KNN, Decision Tree, Random Forest, XGBoost, and an Artificial Neural Network with Keras. The models were implemented in Python using Jupyter Notebook, with Random Forest achieving the highest accuracy of 95%. The project, titled “Binary Classification with Sklearn and Keras” on Kaggle, demonstrates how machine learning can effectively aid in medical predictions and improve healthcare outcomes.
